@@ -11,22 +11,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1100&color=00D2FF&center=true&vCenter=true&width=750&lines=Automation+%26+Applied+Informatics+%E2%86%92+UCv+Craiova;Industrial+Robots+%7C+Conveyor+Systems+%7C+PLC+Logic;PID+Controllers+%7C+LabWindows%2FCVI+%7C+MATLAB;React+%7C+Node.js+%7C+Full-Stack+Web+Engineering;Code.+Optimize.+Repeat." alt="Typing SVG" />
 
----
-
-```
-                    [ INDUSTRIAL AUTOMATION SYSTEM — ACTIVE ]
-
-    ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐
-    │ SENSOR  │────▶│  PLC /  │────▶│  ROBOT  │────▶│ SORTED  │
-    │ INPUT   │     │  HMI    │     │  ARM    │     │ OUTPUT  │
-    └─────────┘     └─────────┘     └─────────┘     └─────────┘
-         │               │               │                │
-         ▼               ▼               ▼                ▼
-    ════◎════════════════◎═══[▣]══════════════════════════◎════▶
-         detect       control        sort              deliver
-```
-
----
 
 <table>
 <tr>
