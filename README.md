@@ -1,209 +1,290 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a1628,100:00d2ff&height=220&section=header&text=rupusu-sudo&fontColor=00d2ff&fontSize=60&fontAlignY=36&desc=Automation%20Engineer%20%7C%20Control%20Systems%20%7C%20Craiova%2C%20RO&descAlignY=58&descSize=15&descColor=8b949e&animation=fadeIn" width="100%"/>
+<div align="center">
 
-<div align="right">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090D,40:0B1118,100:00D2FF&height=220&section=header&text=rupusu-sudo&fontColor=00D2FF&fontSize=58&fontAlignY=36&desc=Automation%20Engineer%20%E2%80%A2%20Control%20Systems%20%E2%80%A2%20Craiova%2C%20RO&descAlignY=58&descSize=15&descColor=8B949E&animation=fadeIn" width="100%" alt="rupusu-sudo banner"/>
 
-[![Visitors](https://komarev.com/ghpvc/?username=rupusu-sudo&color=00d2ff&style=flat-square&label=visitors)](https://github.com/rupusu-sudo)
-![Status](https://img.shields.io/badge/status-building-00d2ff?style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=00D2FF&background=07090D00&center=true&vCenter=true&width=760&lines=Automation+%26+Applied+Informatics+%E2%80%94+UCv+Craiova;PID+Control+%7C+MATLAB+%7C+LabWindows%2FCVI;Full-Stack+Engineering+%E2%80%94+React+%2F+Node.js+%2F+.NET;Code.+Optimize.+Repeat." alt="Typing SVG"/>
 
 </div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1100&color=00D2FF&center=true&vCenter=true&width=750&lines=Automation+%26+Applied+Informatics+%E2%86%92+UCv+Craiova;Industrial+Robots+%7C+Conveyor+Systems+%7C+PLC+Logic;PID+Controllers+%7C+LabWindows%2FCVI+%7C+MATLAB;React+%7C+Node.js+%7C+Full-Stack+Web+Engineering;Code.+Optimize.+Repeat." alt="Typing SVG" />
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│  SYSTEM INITIALIZATION                                            │
+│                                                                    │
+│  > loading engineer.profile ..................... [████████] 100%│
+│  > control.systems ............................... ONLINE        │
+│  > software.stack ................................. ONLINE       │
+│  > robotics.module ................................ LEARNING     │
+│  > digitalization.services ........................ ACTIVE       │
+│                                                                    │
+│  STATUS: BUILDING SYSTEMS                                         │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-
-<table>
-<tr>
-<td valign="top" width="52%">
+<br/>
 
 ## `~/whoami`
 
-```bash
-$ cat engineer.yaml
+<table>
+<tr><td>
+
+```
+┌─ ENGINEER PROFILE ────────────────────────────────────────────┐
+│                                                                 │
+│  IDENTITY                                                      │
+│  ────────────────────────────────────────────────────────────  │
+│  Name        Ionuț-Marian Fălcoi                               │
+│  Handle      rupusu-sudo / ruppz                                │
+│  Discipline  Automation & Applied Informatics                  │
+│  University  Universitatea din Craiova                         │
+│  Location    Craiova, România                                  │
+│                                                                 │
+│  CORE SYSTEMS                                                  │
+│  ────────────────────────────────────────────────────────────  │
+│  Control · Robotics (academic) · Software · Digitalization     │
+│                                                                 │
+│  MOTTO                                                          │
+│  ────────────────────────────────────────────────────────────  │
+│  Code. Optimize. Repeat.                                       │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-```yaml
-name      : Ionut-Marian (ruppz)
-alias     : rupusu-sudo
-role      : Automation Engineering Student
-uni       : Universitatea din Craiova
-faculty   : Automatică, Calculatoare și Electronică
-location  : Craiova, România 🇷🇴
+</td></tr>
+</table>
 
-interests :
-  - Industrial Robots & Conveyor Automation
-  - PID Control & Process Engineering
-  - HMI / SCADA Interface Design
-  - Full-Stack Web Development
-  - Public Sector Digitalization
+<br/>
 
-currently : 2 active projects in development
-motto     : "Code. Optimize. Repeat."
+## `~/mindset`
+
+```text
+I don't just write software.
+I design systems.
+
+INPUT  →  PROCESS  →  CONTROL  →  OUTPUT
 ```
 
-</td>
-<td valign="top" width="48%">
+My background in automation shapes how I approach software — every
+feature is a signal, every bug is noise in the loop, every release is
+a feedback cycle.
+
+<br/>
 
 ## `~/stack`
 
-**⚙️ Control & Industrial**
+<table>
+<tr><td width="50%" valign="top">
 
-![MATLAB](https://img.shields.io/badge/MATLAB-EF7C00?style=flat-square&logo=mathworks&logoColor=white)
-![LabWindows](https://img.shields.io/badge/LabWindows%2FCVI-FFD700?style=flat-square&logo=ni&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**CONTROL & AUTOMATION** · `ACADEMIC / CURRENT`
 
-**🌐 Web Engineering**
+![MATLAB](https://img.shields.io/badge/MATLAB-0B1118?style=flat-square&logo=mathworks&logoColor=00D2FF)
+![LabWindows/CVI](https://img.shields.io/badge/LabWindows%2FCVI-0B1118?style=flat-square&logoColor=00D2FF)
+![C](https://img.shields.io/badge/C-0B1118?style=flat-square&logo=c&logoColor=00D2FF)
+![C++](https://img.shields.io/badge/C%2B%2B-0B1118?style=flat-square&logo=cplusplus&logoColor=00D2FF)
+![PID](https://img.shields.io/badge/PID_Control-0B1118?style=flat-square&logoColor=00D2FF)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+</td><td width="50%" valign="top">
 
-**🔧 Tools & Scripting**
+**SOFTWARE ENGINEERING** · `CURRENT`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-0B1118?style=flat-square&logo=react&logoColor=00D2FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1118?style=flat-square&logo=typescript&logoColor=00D2FF)
+![Node.js](https://img.shields.io/badge/Node.js-0B1118?style=flat-square&logo=node.js&logoColor=00D2FF)
+![.NET](https://img.shields.io/badge/.NET_%2F_C%23-0B1118?style=flat-square&logo=dotnet&logoColor=00D2FF)
+![Python](https://img.shields.io/badge/Python-0B1118?style=flat-square&logo=python&logoColor=00D2FF)
+![SQL](https://img.shields.io/badge/SQL-0B1118?style=flat-square&logo=mysql&logoColor=00D2FF)
+![Prisma](https://img.shields.io/badge/Prisma-0B1118?style=flat-square&logo=prisma&logoColor=00D2FF)
 
-</td>
-</tr>
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**ROBOTICS** · `EXPLORING`
+
+![Robot Kinematics](https://img.shields.io/badge/Robot_Kinematics-0B1118?style=flat-square&logoColor=2563EB)
+![Sensors](https://img.shields.io/badge/Sensors_%2F_Actuators-0B1118?style=flat-square&logoColor=2563EB)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0B1118?style=flat-square&logoColor=2563EB)
+![ROS2](https://img.shields.io/badge/ROS2-0B1118?style=flat-square&logoColor=2563EB)
+
+*Coursework and self-directed learning — not yet a professional deployment.*
+
+</td><td width="50%" valign="top">
+
+**TOOLING**
+
+![Git](https://img.shields.io/badge/Git-0B1118?style=flat-square&logo=git&logoColor=00D2FF)
+![Linux](https://img.shields.io/badge/Linux-0B1118?style=flat-square&logo=linux&logoColor=00D2FF)
+![Playwright](https://img.shields.io/badge/Playwright-0B1118?style=flat-square&logo=playwright&logoColor=00D2FF)
+![NUnit](https://img.shields.io/badge/NUnit-0B1118?style=flat-square&logoColor=00D2FF)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-0B1118?style=flat-square&logoColor=00D2FF)
+
+</td></tr>
 </table>
 
----
+<br/>
 
-## `~/robotics` — how it works
+## `~/systems`
 
+```text
+   SENSOR
+      │
+      ▼
+ ┌──────────┐
+ │DETECTION │
+ └────┬─────┘
+      │
+      ▼
+ ┌──────────┐
+ │ DECISION │
+ │  LOGIC   │
+ └────┬─────┘
+      │
+      ▼
+ ┌──────────┐
+ │ CONTROL  │
+ │   PID    │
+ └────┬─────┘
+      │
+      ▼
+ ┌──────────┐
+ │ACTUATION │
+ └────┬─────┘
+      │
+      ▼
+   OUTPUT
 ```
-  CONVEYOR SORTING SYSTEM — AUTOMATED PIPELINE
-  ─────────────────────────────────────────────────────────────────────
 
-   FEED        DETECTION          DECISION           ACTUATION
-   ZONE          ZONE               ZONE               ZONE
+The same loop shows up whether I'm tuning a PID controller in
+LabWindows/CVI or handling a request through a REST API — sense the
+input, decide, act, verify the output.
 
-  [====]──▶  ──[📷 CAM]──  ──[🧠 PLC/MCU]──  ──[🦾 ROBOT ARM]──▶ [BIN A]
-  [====]         │                  │                  │
-  [====]    vision / sensor    classify object    pick & place    ──▶ [BIN B]
-  [====]         │                  │                  │
-  ════════════◎══╧══════════════════╧══════════════════╧══════════════▶
-              ▲                                                   ──▶ [BIN C]
-         encoder /
-         speed ctrl
-
-  Every object on the belt is detected → classified → sorted in <200ms.
-  The PID loop controls belt speed. The robot arm gets XYZ coordinates
-  from the vision system. No object passes unsorted.
-```
-
----
+<br/>
 
 ## `~/projects`
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_01-IN_DEV-00d2ff?style=for-the-badge&labelColor=0d1117"/>
+![Status](https://img.shields.io/badge/PROJECT_01-ACADEMIC-2563EB?style=for-the-badge&labelColor=07090D)
 
-### ⚙️ PID Control Interface
-**LabWindows/CVI + MATLAB**
+### PID Control Interface
 
-Real-time graphical interface for PID tuning and process visualization — the kind of system that would sit behind a conveyor belt's speed controller or a robotic arm's motion loop.
+Real-time interface for PID tuning, process monitoring and control
+visualization, built as part of coursework in Automation Engineering.
 
-```
-setpoint ──▶ [ Σ ] ──▶ [  PID  ] ──▶ plant
-                ▲                       │
-                └──────── feedback ◀────┘
-
- Kp=1.20  Ki=0.45  Kd=0.08   [TUNING]
- ─────────────────────────────────────
- Error:  0.03   Output: 72.4%   ● LIVE
+```text
+SETPOINT
+   │
+   ▼
+ [ Σ ] → [ PID ] → [ PLANT ]
+   ▲                  │
+   └──── FEEDBACK ─────┘
 ```
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-EF7C00?style=flat-square&logo=mathworks&logoColor=white)
-![LabWindows](https://img.shields.io/badge/LabWindows/CVI-FFD700?style=flat-square)
+`C` `MATLAB` `LabWindows/CVI`
+Status: **IN DEVELOPMENT**
 
-</td>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/PROJECT_02-IN_DEV-00d2ff?style=for-the-badge&labelColor=0d1117"/>
+![Status](https://img.shields.io/badge/PROJECT_02-ACTIVE-00D2FF?style=for-the-badge&labelColor=07090D)
 
-### 🏛️ Portal Digital Primărie
-**React + Node.js**
+### Almaj Digital Portal
 
-Full-stack web platform to digitalize and automate internal workflows in public institutions — same systems-thinking behind industrial automation, applied to public services.
+Digital institutional portal for a local town hall (Primăria Almaj,
+Dolj County) — document workflows, authentication and server-side OCR
+for uploaded documents.
 
+```text
+CITIZEN
+   │
+   ▼
+ PORTAL
+   │
+   ├── DOCUMENTS + OCR
+   ├── WORKFLOWS
+   ├── AUTH / 2FA
+   └── ADMIN
 ```
-citizen ──▶ portal ──▶ request engine
-               │              │
-         role-based     document store
-           auth ▼              │
-         admin panel ◀── workflow engine
 
-  Roles: citizen / admin / superadmin
-  Status tracking · Audit trail · Notify
-```
+`React` `TypeScript` `Node.js` `MySQL` `Prisma`
+Status: **ACTIVE DEVELOPMENT**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
+</td></tr>
 </table>
 
----
+<br/>
+
+## `~/current-build`
+
+```text
+● ACTIVE      Almaj Digital Portal — documentation & feature work
+● ACTIVE      PID Control Interface — control loop tuning
+○ EXPLORING   Robotics — kinematics, sensors, computer vision
+○ NEXT        PLC programming (IEC 61131-3), embedded systems
+```
+
+<br/>
+
+## `~/roadmap`
+
+```text
+  2024 ──────── 2025 ──────── 2026 ──────── NEXT
+
+  ✓ C / C++       ✓ React        ◉ Public Sector   ○ Embedded / STM32
+  ✓ MATLAB        ✓ Node.js      ◉ Digitalization  ○ PLC (IEC 61131-3)
+  ✓ Control       ✓ SQL          ◉ PID Interface   ○ ROS2
+  ✓ Git / Linux   ✓ .NET / C#    ◉ OCR pipelines    ○ Computer Vision
+```
+
+`✓ COMPLETED`  `◉ ACTIVE`  `○ NEXT`
+
+<br/>
 
 ## `~/stats`
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=rupusu-sudo&show_icons=true&theme=github_dark&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupusu-sudo&layout=compact&theme=github_dark&hide_border=true&title_color=00d2ff&text_color=ffffff&bg_color=0d1117&langs_count=7"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=rupusu-sudo&show_icons=true&theme=github_dark&hide_border=true&title_color=00D2FF&icon_color=00D2FF&text_color=F5F7FA&bg_color=07090D&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupusu-sudo&layout=compact&theme=github_dark&hide_border=true&title_color=00D2FF&text_color=F5F7FA&bg_color=07090D&langs_count=7" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=rupusu-sudo&theme=github-dark-blue&hide_border=true&background=07090D&stroke=1B2733&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF&sideLabels=F5F7FA&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=8B949E" width="60%" alt="GitHub streak"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rupusu-sudo&theme=github-dark-blue&hide_border=true&stroke=0d1117&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="58%"/>
+```text
+┌──────────────────────────────────────────────┐
+│                                                │
+│    INPUT → CONTROL → OPTIMIZE → OUTPUT        │
+│                                                │
+│                rupusu-sudo                    │
+│                                                │
+└──────────────────────────────────────────────┘
+```
 
 </div>
 
----
-
-## `~/roadmap`
-
-```
-  2024 ──────────────────────────────────────────────────── 2026+
-
-  ██ C / C++                    ░░ STM32 / Embedded Systems
-  ██ MATLAB & Control Theory    ░░ PLC Programming (IEC 61131-3)
-  ██ React · Node.js · Web      ░░ SCADA / HMI Systems
-  ██ Git · Linux                ░░ Industrial Fieldbus (Modbus/CAN)
-  ▓▓ PID Interface (LW / CVI)   ░░ Robot Kinematics & Path Planning
-  ▓▓ Primărie Web Platform      ░░ Computer Vision (sorting systems)
-  ░░ ROS2 (Robot OS)            ░░ Real industrial automation project
-
-  ██ done   ▓▓ in progress   ░░ next target
-```
-
----
+<br/>
 
 ## `~/connect`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ionut--marian--falcoi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ionut-marian-falcoi-303510331)
-[![Instagram](https://img.shields.io/badge/Instagram-ruppz1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ruppz1)
-[![Reddit](https://img.shields.io/badge/Reddit-ruppz1337-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/ruppz1337)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-07090D?style=for-the-badge&logo=linkedin&logoColor=00D2FF)](https://linkedin.com/in/ionut-marian-falcoi-303510331)
+[![Instagram](https://img.shields.io/badge/Instagram-07090D?style=for-the-badge&logo=instagram&logoColor=00D2FF)](https://instagram.com/ruppz1)
+[![Reddit](https://img.shields.io/badge/Reddit-07090D?style=for-the-badge&logo=reddit&logoColor=00D2FF)](https://reddit.com/user/ruppz1337)
 
 <br/>
 
-*Open to collabs, automation projects & engineering conversations.*
+BUILDING SYSTEMS.
+SOLVING PROBLEMS.
+LEARNING EVERY DAY.
+
+**Code. Optimize. Repeat.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:0a1628,100:0d0d0d&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090D,50:0B1118,100:00D2FF&height=120&section=footer" width="100%" alt="footer"/>
