@@ -1,0 +1,43 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="280" height="280" rx="8" fill="#0B1118" stroke="#1B2733" stroke-width="1.2"/>
+  <text x="30" y="34" font-family="Consolas, 'JetBrains Mono', monospace" font-size="11" letter-spacing="2" fill="#8B949E">SENSOR ARRAY</text>
+
+  <g stroke="#1B2733" stroke-width="1" fill="none">
+    <circle cx="150" cy="150" r="30"/>
+    <circle cx="150" cy="150" r="60"/>
+    <circle cx="150" cy="150" r="90"/>
+    <circle cx="150" cy="150" r="120"/>
+    <line x1="30" y1="150" x2="270" y2="150"/>
+    <line x1="150" y1="30" x2="150" y2="270"/>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="4s" repeatCount="indefinite"/>
+    <path d="M150,150 L150,30 L134.3,31.0 Z" fill="#00D2FF" opacity="0.45"/>
+    <path d="M150,150 L134.3,31.0 L118.9,34.1 Z" fill="#00D2FF" opacity="0.36"/>
+    <path d="M150,150 L118.9,34.1 L104.1,39.1 Z" fill="#00D2FF" opacity="0.27"/>
+    <path d="M150,150 L104.1,39.1 L90.0,46.1 Z" fill="#00D2FF" opacity="0.18"/>
+    <path d="M150,150 L90.0,46.1 L76.9,54.8 Z" fill="#00D2FF" opacity="0.12"/>
+    <path d="M150,150 L76.9,54.8 L65.15,65.15 Z" fill="#00D2FF" opacity="0.06"/>
+    <line x1="150" y1="150" x2="150" y2="30" stroke="#00D2FF" stroke-width="1.5" opacity="0.9"/>
+  </g>
+
+  <circle cx="207.9" cy="81.1" r="4" fill="#00D2FF">
+    <animate attributeName="opacity" values="0;0;1;0.3;0;0" keyTimes="0;0.081;0.111;0.161;0.231;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="195" cy="203.6" r="4" fill="#00D2FF">
+    <animate attributeName="opacity" values="0;0;1;0.3;0;0" keyTimes="0;0.359;0.389;0.439;0.509;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="56.0" cy="184.2" r="4" fill="#2563EB">
+    <animate attributeName="opacity" values="0;0;1;0.3;0;0" keyTimes="0;0.664;0.694;0.744;0.814;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="114.6" cy="107.9" r="4" fill="#2563EB">
+    <animate attributeName="opacity" values="0;0;1;0.3;0;0" keyTimes="0;0.859;0.889;0.939;0.97;1" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="150" cy="150" r="3" fill="#F5F7FA"/>
+
+  <text x="150" y="286" text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="10" letter-spacing="2" fill="#00D2FF">
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/>
+    SCANNING</text>
+</svg>
