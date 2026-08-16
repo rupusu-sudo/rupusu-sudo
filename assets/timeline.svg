@@ -1,0 +1,56 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="tr" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <line x1="60" y1="60" x2="890" y2="60" stroke="#1B2733" stroke-width="1.2"/>
+
+  <g text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#F5F7FA">
+    <text x="100" y="38">2024</text>
+    <text x="350" y="38">2025</text>
+    <text x="600" y="38">2026</text>
+    <text x="850" y="38">NEXT</text>
+  </g>
+
+  <circle cx="100" cy="60" r="6" fill="#00D2FF"/>
+  <circle cx="350" cy="60" r="6" fill="#00D2FF"/>
+  <circle cx="600" cy="60" r="6" fill="#00D2FF">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="60" r="6" fill="none" stroke="#1B2733" stroke-width="1.4" stroke-dasharray="2 2"/>
+
+  <g text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="10.5" fill="#8B949E">
+    <text x="100" y="90">C / C++</text>
+    <text x="100" y="106">MATLAB</text>
+    <text x="100" y="122">Control</text>
+    <text x="100" y="138">Git · Linux</text>
+
+    <text x="350" y="90">React</text>
+    <text x="350" y="106">Node.js</text>
+    <text x="350" y="122">SQL</text>
+    <text x="350" y="138">.NET / C#</text>
+
+    <text x="600" y="90">Public Sector</text>
+    <text x="600" y="106">Digitalization</text>
+    <text x="600" y="122">PID Interface</text>
+    <text x="600" y="138">OCR pipelines</text>
+
+    <text x="850" y="90">Embedded / STM32</text>
+    <text x="850" y="106">PLC (IEC 61131-3)</text>
+    <text x="850" y="122">ROS2</text>
+    <text x="850" y="138">Computer Vision</text>
+  </g>
+
+  <text x="60" y="180" font-family="Consolas, 'JetBrains Mono', monospace" font-size="10" fill="#8B949E">✓ COMPLETED</text>
+  <text x="200" y="180" font-family="Consolas, 'JetBrains Mono', monospace" font-size="10" fill="#00D2FF">◉ ACTIVE</text>
+  <text x="320" y="180" font-family="Consolas, 'JetBrains Mono', monospace" font-size="10" fill="#8B949E">○ NEXT</text>
+
+  <circle r="10" fill="#00D2FF" opacity="0.3" filter="url(#tr)">
+    <animateMotion path="M60,60 L890,60" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.6" fill="#00D2FF">
+    <animateMotion path="M60,60 L890,60" dur="6s" repeatCount="indefinite"/>
+  </circle>
+</svg>

@@ -1,0 +1,29 @@
+<svg width="900" height="175" viewBox="0 0 900 175" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="tr" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <path d="M40,30 L220,70 L380,70 L520,70 L680,70 L860,110" fill="none" stroke="#1B2733" stroke-width="1.2"/>
+
+  <circle cx="40" cy="30" r="4" fill="#00D2FF">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="860" cy="110" r="4" fill="#00D2FF">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="380" y="50" width="140" height="40" rx="6" fill="#0B1118" stroke="#00D2FF" stroke-width="1.2"/>
+  <text x="450" y="75" text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="13" letter-spacing="2" fill="#00D2FF">CONTROL</text>
+
+  <circle r="9" fill="#00D2FF" opacity="0.3" filter="url(#tr)">
+    <animateMotion path="M40,30 L220,70 L380,70 L520,70 L680,70 L860,110" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.4" fill="#00D2FF">
+    <animateMotion path="M40,30 L220,70 L380,70 L520,70 L680,70 L860,110" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="450" y="140" text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="19" font-weight="700" fill="#F5F7FA">rupusu-sudo</text>
+  <text x="450" y="160" text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="12" letter-spacing="2" fill="#8B949E">Code. Optimize. Repeat.</text>
+</svg>
