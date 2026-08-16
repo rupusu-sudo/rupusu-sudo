@@ -7,10 +7,33 @@
 <br/>
 
 <div align="center">
-<img src="./assets/boot.svg" width="640" alt="System boot sequence"/>
+<img src="./assets/boot.svg" width="640" alt="Live terminal session"/>
 </div>
 
 <br/>
+
+<img src="./assets/signal-line.svg" width="100%" alt=""/>
+
+## `~/control-room`
+
+<table>
+<tr>
+<td valign="top" width="66%">
+
+<img src="./assets/oscilloscope.svg" width="100%" alt="PID step-response oscilloscope"/>
+
+</td>
+<td valign="top" width="34%">
+
+<img src="./assets/radar.svg" width="100%" alt="Rotating sensor radar sweep"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="./assets/gears.svg" width="260" alt="Interlocking automation gears"/>
+</div>
 
 <img src="./assets/signal-line.svg" width="100%" alt=""/>
 
