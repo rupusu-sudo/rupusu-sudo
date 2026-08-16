@@ -1,0 +1,93 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#07090D"/>
+      <stop offset="45%" stop-color="#0B1118"/>
+      <stop offset="78%" stop-color="#0A1F33"/>
+      <stop offset="100%" stop-color="#083244"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#00D2FF" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#00D2FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur3" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+    <filter id="blur6" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+
+  <rect width="900" height="260" fill="url(#bgGrad)"/>
+  <rect width="900" height="260" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- flowing circuit traces -->
+  <g fill="none" stroke="#1B2733" stroke-width="1.2">
+    <path d="M40,40 L160,40 L160,70 L260,70"/>
+    <path d="M860,220 L740,220 L740,190 L640,190"/>
+    <path d="M60,220 L140,220 L140,200"/>
+    <path d="M820,45 L740,45 L740,80"/>
+  </g>
+  <g fill="none" stroke="#00D2FF" stroke-width="1.2" stroke-dasharray="4 7" opacity="0.55">
+    <path d="M40,40 L160,40 L160,70 L260,70">
+      <animate attributeName="stroke-dashoffset" from="0" to="-22" dur="1.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M860,220 L740,220 L740,190 L640,190">
+      <animate attributeName="stroke-dashoffset" from="0" to="-22" dur="1.7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M60,220 L140,220 L140,200">
+      <animate attributeName="stroke-dashoffset" from="0" to="-22" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M820,45 L740,45 L740,80">
+      <animate attributeName="stroke-dashoffset" from="0" to="-22" dur="1.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g fill="#1B2733">
+    <circle cx="40" cy="40" r="3"/><circle cx="160" cy="40" r="3"/><circle cx="260" cy="70" r="3"/>
+    <circle cx="860" cy="220" r="3"/><circle cx="740" cy="220" r="3"/><circle cx="640" cy="190" r="3"/>
+    <circle cx="60" cy="220" r="3"/><circle cx="820" cy="45" r="3"/>
+  </g>
+
+  <circle cx="160" cy="40" r="2.4" fill="#00D2FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="740" cy="220" r="2.4" fill="#00D2FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+  <circle cx="740" cy="80" r="2.4" fill="#2563EB"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="140" cy="200" r="2.4" fill="#2563EB"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" begin="0.4s" repeatCount="indefinite"/></circle>
+  <circle cx="260" cy="70" r="2" fill="#00D2FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" begin="1.9s" repeatCount="indefinite"/></circle>
+  <circle cx="640" cy="190" r="2" fill="#00D2FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" begin="0.2s" repeatCount="indefinite"/></circle>
+
+  <!-- HUD corner brackets -->
+  <g stroke="#00D2FF" stroke-width="1.3" fill="none">
+    <path d="M18,14 L18,30 M18,14 L34,14" opacity="0.5"><animate attributeName="opacity" values="0.25;0.65;0.25" dur="4s" repeatCount="indefinite"/></path>
+    <path d="M882,14 L882,30 M882,14 L866,14" opacity="0.5"><animate attributeName="opacity" values="0.25;0.65;0.25" dur="4s" begin="1s" repeatCount="indefinite"/></path>
+    <path d="M18,246 L18,230 M18,246 L34,246" opacity="0.5"><animate attributeName="opacity" values="0.25;0.65;0.25" dur="4s" begin="2s" repeatCount="indefinite"/></path>
+    <path d="M882,246 L882,230 M882,246 L866,246" opacity="0.5"><animate attributeName="opacity" values="0.25;0.65;0.25" dur="4s" begin="3s" repeatCount="indefinite"/></path>
+  </g>
+
+  <text x="450" y="112" text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="52" font-weight="700" fill="#00D2FF" opacity="0.55" filter="url(#blur6)">rupusu-sudo</text>
+  <text x="450" y="112" text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="52" font-weight="700" fill="#F5F7FA">rupusu-sudo</text>
+
+  <text x="450" y="142" text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="14" letter-spacing="4" fill="#8B949E">AUTOMATION ENGINEER</text>
+
+  <g text-anchor="middle" font-family="Consolas, 'JetBrains Mono', monospace" font-size="14" fill="#00D2FF">
+    <text x="450" y="170">ROBOTICS BUILDER<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.18;0.20;1" dur="10s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="450" y="170">CONTROL SYSTEMS ENGINEER<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.18;0.20;1" dur="10s" begin="2s" repeatCount="indefinite"/></text>
+    <text x="450" y="170">FULL-STACK DEVELOPER<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.18;0.20;1" dur="10s" begin="4s" repeatCount="indefinite"/></text>
+    <text x="450" y="170">DIGITALIZATION SPECIALIST<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.18;0.20;1" dur="10s" begin="6s" repeatCount="indefinite"/></text>
+    <text x="450" y="170">CODE. OPTIMIZE. REPEAT.<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.18;0.20;1" dur="10s" begin="8s" repeatCount="indefinite"/></text>
+  </g>
+
+  <line x1="120" y1="200" x2="780" y2="200" stroke="#1B2733" stroke-width="1"/>
+  <circle r="7" fill="#00D2FF" opacity="0.35" filter="url(#blur3)"><animateMotion path="M120,200 L780,200" dur="4s" repeatCount="indefinite"/></circle>
+  <circle r="3.2" fill="#00D2FF"><animateMotion path="M120,200 L780,200" dur="4s" repeatCount="indefinite"/></circle>
+
+  <g font-family="Consolas, 'JetBrains Mono', monospace" font-size="11" letter-spacing="2">
+    <circle cx="330" cy="228" r="3" fill="#00D2FF"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="0s" repeatCount="indefinite"/></circle>
+    <text x="340" y="232" fill="#8B949E">CONTROL</text>
+    <circle cx="430" cy="228" r="3" fill="#2563EB"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <text x="440" y="232" fill="#8B949E">ROBOTICS</text>
+    <circle cx="535" cy="228" r="3" fill="#00D2FF"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <text x="545" y="232" fill="#8B949E">SOFTWARE</text>
+  </g>
+
+  <circle cx="800" cy="30" r="3.5" fill="#00D2FF"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="810" y="34" font-family="Consolas, 'JetBrains Mono', monospace" font-size="11" letter-spacing="2" fill="#00D2FF">SYSTEM ONLINE<animate attributeName="opacity" values="1;0.5;1" dur="1.8s" repeatCount="indefinite"/></text>
+</svg>
